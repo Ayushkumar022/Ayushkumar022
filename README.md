@@ -73,8 +73,8 @@ You can use commands like:
   <a href="https://github.com/Ayushkumar022/my-pwa-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumar022&repo=my-pwa-project&theme=tokyonight&border_radius=12" />
   </a>
-  <a href="https://github.com/Ayushkumar022/Library-Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumar022&repo=Library-Management&theme=tokyonight&border_radius=12" />
+  <a href="https://github.com/Ayushkumar022/git-shell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumar022&repo=git-shell&theme=tokyonight&border_radius=12" />
   </a>
 </p>
 
