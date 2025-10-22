@@ -14,6 +14,26 @@
 
 ---
 
+## 🚀 My Interactive Git-Shell 🚀
+
+I built a custom web terminal that lets you browse my GitHub repositories using shell commands.
+
+**(This is an animated demo. Click the link below to try the real thing!)**
+
+[![Git-Shell Demo](demo.gif)](https://git-shell-ks50mz0a7-ayushshaw022-4589s-projects.vercel.app/)
+
+### [➡️ Click Here to Try the Live Git-Shell ⬅️](https://git-shell-aokzxprd0-ayushshaw022-4589s-projects.vercel.app)
+
+You can use commands like:
+* `ls` - to see my repositories.
+* `cd <repo-name>` - to navigate into a project.
+* `cat <file-name>` - to read files.
+* `clear` - to clear the screen.
+* `Tab` - for autocomplete!
+
+---
+* **Source Code for this project:** [github.com/ayushkumar022/git-shell](https://github.com/ayushkumar022/git-shell)
+
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/ayush-kumar-01173a205" target="_blank">
