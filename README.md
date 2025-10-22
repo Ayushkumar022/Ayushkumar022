@@ -20,9 +20,9 @@ I built a custom web terminal that lets you browse my GitHub repositories using 
 
 **(This is an animated demo. Click the link below to try the real thing!)**
 
-[![Git-Shell Demo](demo.gif)](https://git-shell-aokzxprd0-ayushshaw022-4589s-projects.vercel.app/)
+[![Git-Shell Demo](demo.gif)](https://git-shell-8senxlvly-ayushshaw022-4589s-projects.vercel.app/)
 
-### [➡️ Click Here to Try the Live Git-Shell ⬅️](https://git-shell-aokzxprd0-ayushshaw022-4589s-projects.vercel.app)
+### [➡️ Click Here to Try the Live Git-Shell ⬅️](https://git-shell-8senxlvly-ayushshaw022-4589s-projects.vercel.app/)
 
 You can use commands like:
 * `ls` - to see my repositories.
