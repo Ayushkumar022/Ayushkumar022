@@ -92,3 +92,13 @@ You can use commands like:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayushkumar022&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
+---
+
+### 💻 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/USERNAME/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/USERNAME)
+[![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/USERNAME)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-1A73E8?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/USERNAME)
